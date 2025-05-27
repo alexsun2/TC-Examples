@@ -1,1 +1,1 @@
-simple examples illustrating technical credit to be used to train a LLMs to identify Technical Credit on their own
+simple examples illustrating Technical Credit to be used to train a LLMs to identify Technical Credit on their own
