@@ -1,0 +1,65 @@
+----- FILE: Architecture Decision Record (ADR) -----
+
+# TC_TYPE: architecture_decision_record
+# ADR 0004: Use Centralized Configuration Management
+
+## Status
+Accepted
+
+## Context
+The system will need to manage multiple configurable parameters such as limits, flags, and settings.
+
+## Decision
+We will use a centralized configuration management class to retrieve all configurable values rather than manually defining them throughout the codebase.
+
+## Consequences
+- Configuration changes are applied in one place, reducing maintenance overhead.
+- Logic becomes easier to test and modify.
+- Slight initial complexity added by centralizing access.
+
+----- FILE: Abstraction Layer (shared interface) -----
+
+# TC_TYPE: abstraction_layer
+
+class ConfigProvider:
+    def get(self, key: str):
+        pass
+
+----- FILE: Development Version (Hardcoded Config) -----
+
+from config_provider import ConfigProvider
+
+class LocalConfig(ConfigProvider):
+    def __init__(self):
+        self.settings = {
+            "max_items": 10,
+            "feature_enabled": True,
+        }
+
+    def get(self, key: str):
+        return self.settings.get(key)
+
+----- FILE: Placeholder for Centralized Version (Future) -----
+
+# Centralized service-based config (placeholder)
+
+from config_provider import ConfigProvider
+
+class RemoteConfig(ConfigProvider):
+    def get(self, key: str):
+        # Placeholder logic for fetching from remote config service
+        return "stubbed_value"
+
+----- FILE: Main Application Logic -----
+
+from local_config import LocalConfig  # or RemoteConfig
+from config_provider import ConfigProvider
+
+def run_app(config: ConfigProvider):
+    max_items = config.get("max_items")
+    if config.get("feature_enabled"):
+        print(f"Running with max_items = {max_items}")
+
+if __name__ == "__main__":
+    config = LocalConfig()  # Switch to RemoteConfig for future architecture
+    run_app(config)

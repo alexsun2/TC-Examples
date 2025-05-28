@@ -1,0 +1,77 @@
+----- FILE: Architecture Decision Record (ADR) -----
+
+# TC_TYPE: architecture_decision_record
+# ADR 0002: Use SQLite in Development Environment
+
+## Status
+Accepted
+
+## Context
+We need a lightweight, file-based database for local development and testing.
+
+## Decision
+We will use SQLite in development environments.
+
+## Consequences
+- Developers won’t need to install or configure a database server locally.
+- In production, we will still use PostgreSQL.
+- We’ll add an abstraction layer to switch database backends easily.
+
+----- FILE: Abstraction Layer (shared interface) -----
+
+# TC_TYPE: abstraction_layer
+
+class DatabaseInterface:
+    def connect(self):
+        pass
+
+    def fetch_data(self):
+        pass
+
+----- FILE: Development Version (SQLite) -----
+
+import sqlite3
+from database import DatabaseInterface
+
+class SQLiteDatabase(DatabaseInterface):
+    def connect(self):
+        return sqlite3.connect("dev.db")
+
+    def fetch_data(self):
+        conn = self.connect()
+        cursor = conn.cursor()
+        cursor.execute("SELECT * FROM sample_table")
+        return cursor.fetchall()
+
+----- FILE: Production Version (PostgreSQL) -----
+
+import psycopg2
+from database import DatabaseInterface
+
+class PostgresDatabase(DatabaseInterface):
+    def connect(self):
+        return psycopg2.connect(
+            dbname="prod",
+            user="admin",
+            password="secret",
+            host="db.server.com"
+        )
+
+    def fetch_data(self):
+        conn = self.connect()
+        cursor = conn.cursor()
+        cursor.execute("SELECT * FROM sample_table")
+        return cursor.fetchall()
+
+----- FILE: Main Application Logic -----
+
+from sqlite_db import SQLiteDatabase  # or PostgresDatabase
+from database import DatabaseInterface
+
+def run_app(db: DatabaseInterface):
+    data = db.fetch_data()
+    print(data)
+
+if __name__ == "__main__":
+    db = SQLiteDatabase()  # Swap with PostgresDatabase() for production
+    run_app(db)
