@@ -1,0 +1,6 @@
+[
+  {"path": "controller.py", "type": "source", "tech-credit": "Model View Controller"},
+  {"path": "main.py", "type": "source", "tech-credit": "Model View Controller"},
+  {"path": "model.py", "type": "source", "tech-credit": "Model View Controller"},
+  {"path": "view.py", "type": "source", "tech-credit": "Model View Controller"}
+]
