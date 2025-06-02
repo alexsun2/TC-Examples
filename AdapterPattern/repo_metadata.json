@@ -1,6 +1,0 @@
-[
-  {"path": "src/Main.java", "type": "source", "tech-credit": "Adapter Pattern"},
-  {"path": "src/SpeedAdapter.java", "type": "source", "tech-credit": "Adapter Pattern"},
-  {"path": "src/SpeedInKMH.java", "type": "source", "tech-credit": "Adapter Pattern"},
-  {"path": "src/SpeedometerMPH.java", "type": "source", "tech-credit": "Adapter Pattern"}
-]
