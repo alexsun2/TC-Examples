@@ -1,0 +1,7 @@
+[
+  {"path": "src/DefensiveStrategy.java", "type": "source", "tech-credit": "Strategy Pattern"},
+  {"path": "src/Enemy.java", "type": "source", "tech-credit": "Strategy Pattern"},
+  {"path": "src/Main.java", "type": "source", "tech-credit": "Strategy Pattern"},
+  {"path": "src/OffensiveStrategy.java", "type": "source", "tech-credit": "Strategy Pattern"},
+  {"path": "src/Strategy.java", "type": "source", "tech-credit": "Strategy Pattern"}
+]
