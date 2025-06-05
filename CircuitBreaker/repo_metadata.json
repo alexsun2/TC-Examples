@@ -1,4 +1,3 @@
 [
-  {"path": "CircuitBreaker.py", "type": "source", "tech-credit": "Circuit Breaker"},
-  {"path": "PyCircuitBreaker.py", "type": "source", "tech-credit": "Circuit Breaker"}
+  {"path": "CircuitBreaker.py", "type": "source", "tech-credit": "Circuit Breaker"}
 ]
