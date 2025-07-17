@@ -231,13 +231,13 @@
     "path": "CircuitBreaker/CircuitBreaker.py",
     "type": "source",
     "tech_credit": "Circuit Breaker",
-    "tech_credit_description": ""
+    "tech_credit_description": "Enhance system resilience by dynamically detecting service failures and preventing cascading issues, especially in distributed systems."
   },
   {
     "path": "CircuitBreaker/CircuitBreaker.java",
     "type": "source",
     "tech_credit": "Circuit Breaker",
-    "tech_credit_description": ""
+    "tech_credit_description": "Enhance system resilience by dynamically detecting service failures and preventing cascading issues, especially in distributed systems."
   },
   {
     "path": "Strategy/strategyex.py",

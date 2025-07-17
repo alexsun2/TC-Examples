@@ -1,6 +1,6 @@
 [
   {
-    "pattern_name": "Circuit breaker",
+    "pattern_name": "Circuit Breaker",
     "pattern_description": "Enhance system resilience by dynamically detecting service failures and preventing cascading issues, especially in distributed systems.",
     "technical_credit": true
   },
