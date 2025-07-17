@@ -1,39 +1,33 @@
 [
   {
-    "path": "Strategy/strategyex.py",
+    "path": "Proxy/proxyex.py",
     "type": "source",
-    "tech_credit": "Strategy Pattern",
-    "tech_credit_description": "Define a family of algorithms, encapsulate each one, and make them interchangeable. Strategy lets the algorithm vary independently from clients that use it."
+    "tech_credit": "Proxy",
+    "tech_credit_description": "Provide a surrogate or placeholder for another object to control access to it."
   },
   {
-    "path": "Strategy/StrategyPatternExample.java",
+    "path": "Proxy/Main.java",
     "type": "source",
-    "tech_credit": "Strategy Pattern",
-    "tech_credit_description": "Define a family of algorithms, encapsulate each one, and make them interchangeable. Strategy lets the algorithm vary independently from clients that use it."
+    "tech_credit": "Proxy",
+    "tech_credit_description": "Provide a surrogate or placeholder for another object to control access to it."
   },
   {
-    "path": "Template/templateex.py",
+    "path": "Proxy/Proxy.java",
     "type": "source",
-    "tech_credit": "Template method",
-    "tech_credit_description": "Define the skeleton of an algorithm in an operation, deferring some steps to subclasses. Template method lets subclasses redefine certain steps of an algorithm without changing the algorithm's structure."
+    "tech_credit": "Proxy",
+    "tech_credit_description": "Provide a surrogate or placeholder for another object to control access to it."
   },
   {
-    "path": "Template/TemplateMethodPatternExample.java",
+    "path": "Proxy/RealSubject.java",
     "type": "source",
-    "tech_credit": "Template method",
-    "tech_credit_description": "Define the skeleton of an algorithm in an operation, deferring some steps to subclasses. Template method lets subclasses redefine certain steps of an algorithm without changing the algorithm's structure."
+    "tech_credit": "Proxy",
+    "tech_credit_description": "Provide a surrogate or placeholder for another object to control access to it."
   },
   {
-    "path": "CircuitBreaker/CircuitBreaker.py",
+    "path": "Proxy/Subject.java",
     "type": "source",
-    "tech_credit": "Circuit Breaker",
-    "tech_credit_description": ""
-  },
-  {
-    "path": "CircuitBreaker/CircuitBreaker.java",
-    "type": "source",
-    "tech_credit": "Circuit Breaker",
-    "tech_credit_description": ""
+    "tech_credit": "Proxy",
+    "tech_credit_description": "Provide a surrogate or placeholder for another object to control access to it."
   },
   {
     "path": "MVC/controller.py",
@@ -84,6 +78,90 @@
     "tech_credit_description": "Separate application concerns into three interconnected components: Model for business logic and data, View for user interface, and Controller for input handling. MVC promotes modularity, enabling independent development, testing, and reuse of each component."
   },
   {
+    "path": "Template/templateex.py",
+    "type": "source",
+    "tech_credit": "Template method",
+    "tech_credit_description": "Define the skeleton of an algorithm in an operation, deferring some steps to subclasses. Template method lets subclasses redefine certain steps of an algorithm without changing the algorithm's structure."
+  },
+  {
+    "path": "Template/TemplateMethodPatternExample.java",
+    "type": "source",
+    "tech_credit": "Template method",
+    "tech_credit_description": "Define the skeleton of an algorithm in an operation, deferring some steps to subclasses. Template method lets subclasses redefine certain steps of an algorithm without changing the algorithm's structure."
+  },
+  {
+    "path": "Adapter/adapterex.py",
+    "type": "source",
+    "tech_credit": "Adapter Pattern",
+    "tech_credit_description": "Convert the interface of an existing class into another interface clients expect. Adapter allows classes with incompatible interfaces to work together, promoting system flexibility and reducing the cost of integration with third-party or legacy components."
+  },
+  {
+    "path": "Adapter/Adaptee.java",
+    "type": "source",
+    "tech_credit": "Adapter Pattern",
+    "tech_credit_description": "Convert the interface of an existing class into another interface clients expect. Adapter allows classes with incompatible interfaces to work together, promoting system flexibility and reducing the cost of integration with third-party or legacy components."
+  },
+  {
+    "path": "Adapter/Adapter.java",
+    "type": "source",
+    "tech_credit": "Adapter Pattern",
+    "tech_credit_description": "Convert the interface of an existing class into another interface clients expect. Adapter allows classes with incompatible interfaces to work together, promoting system flexibility and reducing the cost of integration with third-party or legacy components."
+  },
+  {
+    "path": "Adapter/Main.java",
+    "type": "source",
+    "tech_credit": "Adapter Pattern",
+    "tech_credit_description": "Convert the interface of an existing class into another interface clients expect. Adapter allows classes with incompatible interfaces to work together, promoting system flexibility and reducing the cost of integration with third-party or legacy components."
+  },
+  {
+    "path": "Adapter/Target.java",
+    "type": "source",
+    "tech_credit": "Adapter Pattern",
+    "tech_credit_description": "Convert the interface of an existing class into another interface clients expect. Adapter allows classes with incompatible interfaces to work together, promoting system flexibility and reducing the cost of integration with third-party or legacy components."
+  },
+  {
+    "path": "Iterator/iter_ex.py",
+    "type": "source",
+    "tech_credit": "Iterator",
+    "tech_credit_description": "Provide a way to access the elements of an aggregate object sequentially without exposing its underlying representation."
+  },
+  {
+    "path": "Iterator/Book.java",
+    "type": "source",
+    "tech_credit": "Iterator",
+    "tech_credit_description": "Provide a way to access the elements of an aggregate object sequentially without exposing its underlying representation."
+  },
+  {
+    "path": "Iterator/BookCollection.java",
+    "type": "source",
+    "tech_credit": "Iterator",
+    "tech_credit_description": "Provide a way to access the elements of an aggregate object sequentially without exposing its underlying representation."
+  },
+  {
+    "path": "Iterator/BookIterator.java",
+    "type": "source",
+    "tech_credit": "Iterator",
+    "tech_credit_description": "Provide a way to access the elements of an aggregate object sequentially without exposing its underlying representation."
+  },
+  {
+    "path": "Iterator/Main.java",
+    "type": "source",
+    "tech_credit": "Iterator",
+    "tech_credit_description": "Provide a way to access the elements of an aggregate object sequentially without exposing its underlying representation."
+  },
+  {
+    "path": "Visitor/visitorex.py",
+    "type": "source",
+    "tech_credit": "Visitor Pattern",
+    "tech_credit_description": "Represent an operation to be performed on instances of a set of classes. Visitor lets a new operation be defined without changing the classes of the elements on which it operates."
+  },
+  {
+    "path": "Visitor/VisitorPatternExample.java",
+    "type": "source",
+    "tech_credit": "Visitor Pattern",
+    "tech_credit_description": "Represent an operation to be performed on instances of a set of classes. Visitor lets a new operation be defined without changing the classes of the elements on which it operates."
+  },
+  {
     "path": "ChainOfResponsibility/chain_of_res_ex.py",
     "type": "source",
     "tech_credit": "Chain of responsibility",
@@ -126,36 +204,6 @@
     "tech_credit_description": "Avoid coupling the sender of a request to its receiver by giving more than one object a chance to handle the request. Chain the receiving objects and pass the request along the chain until an object handles it."
   },
   {
-    "path": "Iterator/iter_ex.py",
-    "type": "source",
-    "tech_credit": "Iterator",
-    "tech_credit_description": "Provide a way to access the elements of an aggregate object sequentially without exposing its underlying representation."
-  },
-  {
-    "path": "Iterator/Book.java",
-    "type": "source",
-    "tech_credit": "Iterator",
-    "tech_credit_description": "Provide a way to access the elements of an aggregate object sequentially without exposing its underlying representation."
-  },
-  {
-    "path": "Iterator/BookCollection.java",
-    "type": "source",
-    "tech_credit": "Iterator",
-    "tech_credit_description": "Provide a way to access the elements of an aggregate object sequentially without exposing its underlying representation."
-  },
-  {
-    "path": "Iterator/BookIterator.java",
-    "type": "source",
-    "tech_credit": "Iterator",
-    "tech_credit_description": "Provide a way to access the elements of an aggregate object sequentially without exposing its underlying representation."
-  },
-  {
-    "path": "Iterator/Main.java",
-    "type": "source",
-    "tech_credit": "Iterator",
-    "tech_credit_description": "Provide a way to access the elements of an aggregate object sequentially without exposing its underlying representation."
-  },
-  {
     "path": "PlatformAbstractionLayers/BasicAbstractionPatternEx.py",
     "type": "source",
     "tech_credit": "Platform Abstraction Layers",
@@ -180,75 +228,27 @@
     "tech_credit_description": "Introduce intermediary layers that decouple application logic from third-party platforms, libraries, or APIs. This shields the core system from external changes, simplifies technology replacement, and reduces the cost and risk of platform evolution."
   },
   {
-    "path": "Proxy/proxyex.py",
+    "path": "CircuitBreaker/CircuitBreaker.py",
     "type": "source",
-    "tech_credit": "Proxy",
-    "tech_credit_description": "Provide a surrogate or placeholder for another object to control access to it."
+    "tech_credit": "Circuit Breaker",
+    "tech_credit_description": ""
   },
   {
-    "path": "Proxy/Main.java",
+    "path": "CircuitBreaker/CircuitBreaker.java",
     "type": "source",
-    "tech_credit": "Proxy",
-    "tech_credit_description": "Provide a surrogate or placeholder for another object to control access to it."
+    "tech_credit": "Circuit Breaker",
+    "tech_credit_description": ""
   },
   {
-    "path": "Proxy/Proxy.java",
+    "path": "Strategy/strategyex.py",
     "type": "source",
-    "tech_credit": "Proxy",
-    "tech_credit_description": "Provide a surrogate or placeholder for another object to control access to it."
+    "tech_credit": "Strategy Pattern",
+    "tech_credit_description": "Define a family of algorithms, encapsulate each one, and make them interchangeable. Strategy lets the algorithm vary independently from clients that use it."
   },
   {
-    "path": "Proxy/RealSubject.java",
+    "path": "Strategy/StrategyPatternExample.java",
     "type": "source",
-    "tech_credit": "Proxy",
-    "tech_credit_description": "Provide a surrogate or placeholder for another object to control access to it."
-  },
-  {
-    "path": "Proxy/Subject.java",
-    "type": "source",
-    "tech_credit": "Proxy",
-    "tech_credit_description": "Provide a surrogate or placeholder for another object to control access to it."
-  },
-  {
-    "path": "Adapter/adapterex.py",
-    "type": "source",
-    "tech_credit": "Adapter Pattern",
-    "tech_credit_description": "Convert the interface of an existing class into another interface clients expect. Adapter allows classes with incompatible interfaces to work together, promoting system flexibility and reducing the cost of integration with third-party or legacy components."
-  },
-  {
-    "path": "Adapter/Adaptee.java",
-    "type": "source",
-    "tech_credit": "Adapter Pattern",
-    "tech_credit_description": "Convert the interface of an existing class into another interface clients expect. Adapter allows classes with incompatible interfaces to work together, promoting system flexibility and reducing the cost of integration with third-party or legacy components."
-  },
-  {
-    "path": "Adapter/Adapter.java",
-    "type": "source",
-    "tech_credit": "Adapter Pattern",
-    "tech_credit_description": "Convert the interface of an existing class into another interface clients expect. Adapter allows classes with incompatible interfaces to work together, promoting system flexibility and reducing the cost of integration with third-party or legacy components."
-  },
-  {
-    "path": "Adapter/Main.java",
-    "type": "source",
-    "tech_credit": "Adapter Pattern",
-    "tech_credit_description": "Convert the interface of an existing class into another interface clients expect. Adapter allows classes with incompatible interfaces to work together, promoting system flexibility and reducing the cost of integration with third-party or legacy components."
-  },
-  {
-    "path": "Adapter/Target.java",
-    "type": "source",
-    "tech_credit": "Adapter Pattern",
-    "tech_credit_description": "Convert the interface of an existing class into another interface clients expect. Adapter allows classes with incompatible interfaces to work together, promoting system flexibility and reducing the cost of integration with third-party or legacy components."
-  },
-  {
-    "path": "Visitor/visitorex.py",
-    "type": "source",
-    "tech_credit": "Visitor Pattern",
-    "tech_credit_description": "Represent an operation to be performed on instances of a set of classes. Visitor lets a new operation be defined without changing the classes of the elements on which it operates."
-  },
-  {
-    "path": "Visitor/VisitorPatternExample.java",
-    "type": "source",
-    "tech_credit": "Visitor Pattern",
-    "tech_credit_description": "Represent an operation to be performed on instances of a set of classes. Visitor lets a new operation be defined without changing the classes of the elements on which it operates."
+    "tech_credit": "Strategy Pattern",
+    "tech_credit_description": "Define a family of algorithms, encapsulate each one, and make them interchangeable. Strategy lets the algorithm vary independently from clients that use it."
   }
 ]
