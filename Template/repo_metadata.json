@@ -1,3 +1,4 @@
 [
-  {"path": "templateex.py", "type": "source", "tech-credit": "Template method"}
+  {"path": "templateex.py", "type": "source", "tech-credit": "Template method"},
+  {"path": "TemplateMethodPatternExample.java", "type": "source", "tech-credit": "Template method"}
 ]

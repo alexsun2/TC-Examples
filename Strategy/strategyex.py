@@ -3,7 +3,7 @@ from abc import ABC, abstractmethod
 from typing import List
 
 
-class Context():
+class Context:
     """
     The Context defines the interface of interest to clients.
     """
@@ -59,7 +59,7 @@ class Strategy(ABC):
     """
 
     @abstractmethod
-    def do_algorithm(self, data: List):
+    def do_algorithm(self, data: List) -> List:
         pass
 
 
@@ -76,7 +76,7 @@ class ConcreteStrategyA(Strategy):
 
 class ConcreteStrategyB(Strategy):
     def do_algorithm(self, data: List) -> List:
-        return reversed(sorted(data))
+        return list(reversed(sorted(data)))
 
 
 if __name__ == "__main__":

@@ -1,3 +1,4 @@
 [
-  {"path": "visitorex.py", "type": "source", "tech-credit": "Visitor Pattern"}
+  {"path": "visitorex.py", "type": "source", "tech-credit": "Visitor Pattern"},
+  {"path": "VisitorPatternExample.java", "type": "source", "tech-credit": "Visitor Pattern"}
 ]
