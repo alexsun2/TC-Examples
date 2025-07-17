@@ -10,11 +10,6 @@
     "technical_credit": true
   },
   {
-    "pattern_name": "Architecture Design Records",
-    "pattern_description": "Document architectural decisions in a lightweight, structured format to improve traceability, promote team alignment, and support future system evolution. ADRs capture the rationale, context, and alternatives behind design choices, enabling resilient and maintainable architecture.",
-    "technical_credit": true
-  },
-  {
     "pattern_name": "Adapter Pattern",
     "pattern_description": "Convert the interface of an existing class into another interface clients expect. Adapter allows classes with incompatible interfaces to work together, promoting system flexibility and reducing the cost of integration with third-party or legacy components.",
     "technical_credit": true
@@ -53,7 +48,7 @@
     "pattern_name": "Template method",
     "pattern_description": "Define the skeleton of an algorithm in an operation, deferring some steps to subclasses. Template method lets subclasses redefine certain steps of an algorithm without changing the algorithm's structure.",
     "technical_credit": true
-  }#,
+  },
   {
     "pattern_name": "Front controller",
     "pattern_description": "The pattern relates to the design of Web applications. It provides a centralized entry point for handling requests.",
@@ -108,6 +103,5 @@
     "pattern_name": "Thread pool",
     "pattern_description": "A number of threads are created to perform a number of tasks, which are usually organized in a queue. Typically, there are many more tasks than threads. Can be considered a special case of the object pool pattern.",
     "technical_credit": true
-  }#
+  }
 ]
-

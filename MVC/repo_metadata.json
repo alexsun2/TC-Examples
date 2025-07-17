@@ -1,6 +1,42 @@
 [
-  {"path": "controller.py", "type": "source", "tech-credit": "Model View Controller"},
-  {"path": "main.py", "type": "source", "tech-credit": "Model View Controller"},
-  {"path": "model.py", "type": "source", "tech-credit": "Model View Controller"},
-  {"path": "view.py", "type": "source", "tech-credit": "Model View Controller"}
+  {
+    "path": "controller.py",
+    "type": "source",
+    "tech-credit": "Model View Controller"
+  },
+  {
+    "path": "main.py",
+    "type": "source",
+    "tech-credit": "Model View Controller"
+  },
+  {
+    "path": "model.py",
+    "type": "source",
+    "tech-credit": "Model View Controller"
+  },
+  {
+    "path": "view.py",
+    "type": "source",
+    "tech-credit": "Model View Controller"
+  },
+  {
+    "path": "Main.java",
+    "type": "source",
+    "tech-credit": "Model View Controller"
+  },
+  {
+    "path": "TaskController.java",
+    "type": "source",
+    "tech-credit": "Model View Controller"
+  },
+  {
+    "path": "TaskModel.java",
+    "type": "source",
+    "tech-credit": "Model View Controller"
+  },
+  {
+    "path": "TaskView.java",
+    "type": "source",
+    "tech-credit": "Model View Controller"
+  }
 ]

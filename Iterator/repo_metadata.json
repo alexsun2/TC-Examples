@@ -1,3 +1,11 @@
 [
-  {"path": "iter_ex.py", "type": "source", "tech-credit": "Iterator"}
+  { "path": "iter_ex.py", "type": "source", "tech-credit": "Iterator" },
+  { "path": "Book.java", "type": "source", "tech-credit": "Iterator" },
+  {
+    "path": "BookCollection.java",
+    "type": "source",
+    "tech-credit": "Iterator"
+  },
+  { "path": "BookIterator.java", "type": "source", "tech-credit": "Iterator" },
+  { "path": "Main.java", "type": "source", "tech-credit": "Iterator" }
 ]

@@ -1,3 +1,37 @@
 [
-  {"path": "chain_of_res_ex.py", "type": "source", "tech-credit": "Chain of responsibility"}
+  {
+    "path": "chain_of_res_ex.py",
+    "type": "source",
+    "tech-credit": "Chain of responsibility"
+  },
+  {
+    "path": "AbstractHandler.java",
+    "type": "source",
+    "tech-credit": "Chain of responsibility"
+  },
+  {
+    "path": "DogHandler.java",
+    "type": "source",
+    "tech-credit": "Chain of responsibility"
+  },
+  {
+    "path": "Handler.java",
+    "type": "source",
+    "tech-credit": "Chain of responsibility"
+  },
+  {
+    "path": "Main.java",
+    "type": "source",
+    "tech-credit": "Chain of responsibility"
+  },
+  {
+    "path": "MonkeyHandler.java",
+    "type": "source",
+    "tech-credit": "Chain of responsibility"
+  },
+  {
+    "path": "SquirrelHandler.java",
+    "type": "source",
+    "tech-credit": "Chain of responsibility"
+  }
 ]

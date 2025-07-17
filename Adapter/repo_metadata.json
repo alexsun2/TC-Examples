@@ -1,3 +1,19 @@
 [
-  {"path": "adapterex.py", "type": "source", "tech-credit": "Adapter Pattern"}
+  {
+    "path": "adapterex.py",
+    "type": "source",
+    "tech-credit": "Adapter Pattern"
+  },
+  {
+    "path": "Adaptee.java",
+    "type": "source",
+    "tech-credit": "Adapter Pattern"
+  },
+  {
+    "path": "Adapter.java",
+    "type": "source",
+    "tech-credit": "Adapter Pattern"
+  },
+  { "path": "Main.java", "type": "source", "tech-credit": "Adapter Pattern" },
+  { "path": "Target.java", "type": "source", "tech-credit": "Adapter Pattern" }
 ]

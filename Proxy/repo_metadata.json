@@ -1,3 +1,7 @@
 [
-  {"path": "proxyex.py", "type": "source", "tech-credit": "Proxy"}
+  { "path": "proxyex.py", "type": "source", "tech-credit": "Proxy" },
+  { "path": "Main.java", "type": "source", "tech-credit": "Proxy" },
+  { "path": "Proxy.java", "type": "source", "tech-credit": "Proxy" },
+  { "path": "RealSubject.java", "type": "source", "tech-credit": "Proxy" },
+  { "path": "Subject.java", "type": "source", "tech-credit": "Proxy" }
 ]
