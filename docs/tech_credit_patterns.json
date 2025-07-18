@@ -25,6 +25,11 @@
     "technical_credit": true
   },
   {
+    "pattern_name": "Decorator Pattern",
+    "pattern_description": "Attach additional responsibilities to an object dynamically. Decorators provide a flexible alternative to subclassing for extending functionality.",
+    "technical_credit": true
+  },
+  {
     "pattern_name": "Iterator",
     "pattern_description": "Provide a way to access the elements of an aggregate object sequentially without exposing its underlying representation.",
     "technical_credit": true

@@ -30,6 +30,24 @@
     "tech_credit_description": "Provide a surrogate or placeholder for another object to control access to it."
   },
   {
+    "path": "Decorator/LoggingDecorator.java",
+    "type": "source",
+    "tech_credit": "Decorator Pattern",
+    "tech_credit_description": "Attach additional responsibilities to an object dynamically. Decorators provide a flexible alternative to subclassing for extending functionality."
+  },
+  {
+    "path": "Decorator/BaseService.java",
+    "type": "source",
+    "tech_credit": "Decorator Pattern",
+    "tech_credit_description": "Attach additional responsibilities to an object dynamically. Decorators provide a flexible alternative to subclassing for extending functionality."
+  },
+  {
+    "path": "Decorator/Service.java",
+    "type": "source",
+    "tech_credit": "Decorator Pattern",
+    "tech_credit_description": "Attach additional responsibilities to an object dynamically. Decorators provide a flexible alternative to subclassing for extending functionality."
+  },
+  {
     "path": "MVC/controller.py",
     "type": "source",
     "tech_credit": "Model View Controller",
