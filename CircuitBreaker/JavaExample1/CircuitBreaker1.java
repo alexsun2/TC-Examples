@@ -1,6 +1,6 @@
 // TC_TYPE: circuit_breaker
 
-package CircuitBreaker;
+package JavaExample1;
 
 import java.time.Duration;
 import java.time.Instant;
@@ -14,7 +14,7 @@ class CircuitBreakerOpenException extends RuntimeException {
 }
 
 // The core Circuit Breaker class
-public class CircuitBreaker {
+public class CircuitBreaker1 {
 
     // Circuit states
     private enum State { CLOSED, OPEN, HALF_OPEN }
@@ -26,7 +26,7 @@ public class CircuitBreaker {
     private Instant lastFailureTime;
 
     // Constructor: configure failure limit and timeout duration
-    public CircuitBreaker(int failureThreshold, Duration resetTimeout) {
+    public CircuitBreaker1(int failureThreshold, Duration resetTimeout) {
         this.failureThreshold = failureThreshold;
         this.resetTimeout = resetTimeout;
     }

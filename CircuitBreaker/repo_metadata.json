@@ -1,11 +1,16 @@
 [
   {
-    "path": "CircuitBreaker.py",
+    "path": "PythonExample1/CircuitBreaker.py",
     "type": "source",
     "tech-credit": "Circuit Breaker"
   },
   {
-    "path": "CircuitBreaker.java",
+    "path": "JavaExample1/CircuitBreaker1.java",
+    "type": "source",
+    "tech-credit": "Circuit Breaker"
+  },
+  {
+    "path": "JavaExample2/CircuitBreaker2.java",
     "type": "source",
     "tech-credit": "Circuit Breaker"
   }
