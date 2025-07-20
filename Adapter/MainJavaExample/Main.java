@@ -1,6 +1,6 @@
 // TC_TYPE: adapter
 
-package Adapter;
+package Adapter.MainJavaExample;
 
 /*
  * The client code supports all classes that follow the Target interface.
@@ -19,7 +19,7 @@ public class Main {
 
     Adaptee adaptee = new Adaptee();
     System.out.println("Client: The Adaptee class has a weird interface. "
-                      + "See, I don't understand it:");
+        + "See, I don't understand it:");
     System.out.println("Adaptee: " + adaptee.specificRequest());
     System.out.println();
 

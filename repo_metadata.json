@@ -108,31 +108,61 @@
     "tech_credit_description": "Define the skeleton of an algorithm in an operation, deferring some steps to subclasses. Template method lets subclasses redefine certain steps of an algorithm without changing the algorithm's structure."
   },
   {
-    "path": "Adapter/adapterex.py",
+    "path": "Adapter/MainPythonExample/adapterex.py",
     "type": "source",
     "tech_credit": "Adapter Pattern",
     "tech_credit_description": "Convert the interface of an existing class into another interface clients expect. Adapter allows classes with incompatible interfaces to work together, promoting system flexibility and reducing the cost of integration with third-party or legacy components."
   },
   {
-    "path": "Adapter/Adaptee.java",
+    "path": "Adapter/MainJavaExample/Adaptee.java",
     "type": "source",
     "tech_credit": "Adapter Pattern",
     "tech_credit_description": "Convert the interface of an existing class into another interface clients expect. Adapter allows classes with incompatible interfaces to work together, promoting system flexibility and reducing the cost of integration with third-party or legacy components."
   },
   {
-    "path": "Adapter/Adapter.java",
+    "path": "Adapter/MainJavaExample/Adapter.java",
     "type": "source",
     "tech_credit": "Adapter Pattern",
     "tech_credit_description": "Convert the interface of an existing class into another interface clients expect. Adapter allows classes with incompatible interfaces to work together, promoting system flexibility and reducing the cost of integration with third-party or legacy components."
   },
   {
-    "path": "Adapter/Main.java",
+    "path": "Adapter/MainJavaExample/Main.java",
     "type": "source",
     "tech_credit": "Adapter Pattern",
     "tech_credit_description": "Convert the interface of an existing class into another interface clients expect. Adapter allows classes with incompatible interfaces to work together, promoting system flexibility and reducing the cost of integration with third-party or legacy components."
   },
   {
-    "path": "Adapter/Target.java",
+    "path": "Adapter/MainJavaExample/Target.java",
+    "type": "source",
+    "tech_credit": "Adapter Pattern",
+    "tech_credit_description": "Convert the interface of an existing class into another interface clients expect. Adapter allows classes with incompatible interfaces to work together, promoting system flexibility and reducing the cost of integration with third-party or legacy components."
+  },
+  {
+    "path": "Adapter/BoatExample/FishingBoatAdapter.java",
+    "type": "source",
+    "tech_credit": "Adapter Pattern",
+    "tech_credit_description": "Convert the interface of an existing class into another interface clients expect. Adapter allows classes with incompatible interfaces to work together, promoting system flexibility and reducing the cost of integration with third-party or legacy components."
+  },
+  {
+    "path": "Adapter/BoatExample/Captain.java",
+    "type": "source",
+    "tech_credit": "Adapter Pattern",
+    "tech_credit_description": "Convert the interface of an existing class into another interface clients expect. Adapter allows classes with incompatible interfaces to work together, promoting system flexibility and reducing the cost of integration with third-party or legacy components."
+  },
+  {
+    "path": "Adapter/BoatExample/FishingBoat.java",
+    "type": "source",
+    "tech_credit": "Adapter Pattern",
+    "tech_credit_description": "Convert the interface of an existing class into another interface clients expect. Adapter allows classes with incompatible interfaces to work together, promoting system flexibility and reducing the cost of integration with third-party or legacy components."
+  },
+  {
+    "path": "Adapter/BoatExample/App.java",
+    "type": "source",
+    "tech_credit": "Adapter Pattern",
+    "tech_credit_description": "Convert the interface of an existing class into another interface clients expect. Adapter allows classes with incompatible interfaces to work together, promoting system flexibility and reducing the cost of integration with third-party or legacy components."
+  },
+  {
+    "path": "Adapter/BoatExample/RowingBoat.java",
     "type": "source",
     "tech_credit": "Adapter Pattern",
     "tech_credit_description": "Convert the interface of an existing class into another interface clients expect. Adapter allows classes with incompatible interfaces to work together, promoting system flexibility and reducing the cost of integration with third-party or legacy components."
@@ -246,13 +276,19 @@
     "tech_credit_description": "Introduce intermediary layers that decouple application logic from third-party platforms, libraries, or APIs. This shields the core system from external changes, simplifies technology replacement, and reduces the cost and risk of platform evolution."
   },
   {
-    "path": "CircuitBreaker/CircuitBreaker.py",
+    "path": "CircuitBreaker/PythonExample1/CircuitBreaker.py",
     "type": "source",
     "tech_credit": "Circuit Breaker",
     "tech_credit_description": "Enhance system resilience by dynamically detecting service failures and preventing cascading issues, especially in distributed systems."
   },
   {
-    "path": "CircuitBreaker/CircuitBreaker.java",
+    "path": "CircuitBreaker/JavaExample1/CircuitBreaker1.java",
+    "type": "source",
+    "tech_credit": "Circuit Breaker",
+    "tech_credit_description": "Enhance system resilience by dynamically detecting service failures and preventing cascading issues, especially in distributed systems."
+  },
+  {
+    "path": "CircuitBreaker/JavaExample2/CircuitBreaker2.java",
     "type": "source",
     "tech_credit": "Circuit Breaker",
     "tech_credit_description": "Enhance system resilience by dynamically detecting service failures and preventing cascading issues, especially in distributed systems."

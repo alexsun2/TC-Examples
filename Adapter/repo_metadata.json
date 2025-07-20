@@ -1,19 +1,52 @@
 [
   {
-    "path": "adapterex.py",
+    "path": "MainPythonExample/adapterex.py",
     "type": "source",
     "tech-credit": "Adapter Pattern"
   },
   {
-    "path": "Adaptee.java",
+    "path": "MainJavaExample/Adaptee.java",
     "type": "source",
     "tech-credit": "Adapter Pattern"
   },
   {
-    "path": "Adapter.java",
+    "path": "MainJavaExample/Adapter.java",
     "type": "source",
     "tech-credit": "Adapter Pattern"
   },
-  { "path": "Main.java", "type": "source", "tech-credit": "Adapter Pattern" },
-  { "path": "Target.java", "type": "source", "tech-credit": "Adapter Pattern" }
+  {
+    "path": "MainJavaExample/Main.java",
+    "type": "source",
+    "tech-credit": "Adapter Pattern"
+  },
+  {
+    "path": "MainJavaExample/Target.java",
+    "type": "source",
+    "tech-credit": "Adapter Pattern"
+  },
+  {
+    "path": "BoatExample/FishingBoatAdapter.java",
+    "type": "source",
+    "tech-credit": "Adapter Pattern"
+  },
+  {
+    "path": "BoatExample/Captain.java",
+    "type": "source",
+    "tech-credit": "Adapter Pattern"
+  },
+  {
+    "path": "BoatExample/FishingBoat.java",
+    "type": "source",
+    "tech-credit": "Adapter Pattern"
+  },
+  {
+    "path": "BoatExample/App.java",
+    "type": "source",
+    "tech-credit": "Adapter Pattern"
+  },
+  {
+    "path": "BoatExample/RowingBoat.java",
+    "type": "source",
+    "tech-credit": "Adapter Pattern"
+  }
 ]

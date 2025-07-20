@@ -1,6 +1,6 @@
 // TC_TYPE: adapter
 
-package Adapter;
+package Adapter.MainJavaExample;
 
 /*
  * The Adapter makes the Adaptee's interface compatible with the Target's

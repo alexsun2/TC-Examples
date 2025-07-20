@@ -1,6 +1,6 @@
 // TC_TYPE: adapter
 
-package Adapter;
+package Adapter.MainJavaExample;
 
 /*
  * The Adaptee contains some useful behavior, but its interface is incompatible
