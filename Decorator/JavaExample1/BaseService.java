@@ -1,3 +1,5 @@
+// TC_TYPE: decorator 
+
 package Decorator.JavaExample1;
 
 /**

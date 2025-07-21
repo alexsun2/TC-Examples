@@ -1,3 +1,5 @@
+// TC_TYPE: adapter
+
 package Adapter.PlugExample;
 
 // The US plug class (Adaptee)

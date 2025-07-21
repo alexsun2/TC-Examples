@@ -1,3 +1,5 @@
+// TC_TYPE: adapter
+
 package Adapter.EnumExample;
 
 /**
