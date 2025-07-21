@@ -38,5 +38,25 @@
     "path": "JavaExample1/TaskView.java",
     "type": "source",
     "tech-credit": "Model View Controller"
+  },
+  {
+    "path": "JavaExample2/StudentModel.java",
+    "type": "source",
+    "tech-credit": "Model View Controller"
+  },
+  {
+    "path": "JavaExample2/StudentView.java",
+    "type": "source",
+    "tech-credit": "Model View Controller"
+  },
+  {
+    "path": "JavaExample2/StudentController.java",
+    "type": "source",
+    "tech-credit": "Model View Controller"
+  },
+  {
+    "path": "JavaExample2/Main.java",
+    "type": "source",
+    "tech-credit": "Model View Controller"
   }
 ]
