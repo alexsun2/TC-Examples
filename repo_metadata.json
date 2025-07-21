@@ -156,6 +156,24 @@
     "tech_credit_description": "Convert the interface of an existing class into another interface clients expect. Adapter allows classes with incompatible interfaces to work together, promoting system flexibility and reducing the cost of integration with third-party or legacy components."
   },
   {
+    "path": "Adapter/PlugExample/EUPlug.java",
+    "type": "source",
+    "tech_credit": "Adapter Pattern",
+    "tech_credit_description": "Convert the interface of an existing class into another interface clients expect. Adapter allows classes with incompatible interfaces to work together, promoting system flexibility and reducing the cost of integration with third-party or legacy components."
+  },
+  {
+    "path": "Adapter/PlugExample/USPlug.java",
+    "type": "source",
+    "tech_credit": "Adapter Pattern",
+    "tech_credit_description": "Convert the interface of an existing class into another interface clients expect. Adapter allows classes with incompatible interfaces to work together, promoting system flexibility and reducing the cost of integration with third-party or legacy components."
+  },
+  {
+    "path": "Adapter/PlugExample/USPlugAdapter.java",
+    "type": "source",
+    "tech_credit": "Adapter Pattern",
+    "tech_credit_description": "Convert the interface of an existing class into another interface clients expect. Adapter allows classes with incompatible interfaces to work together, promoting system flexibility and reducing the cost of integration with third-party or legacy components."
+  },
+  {
     "path": "Iterator/iter_ex.py",
     "type": "source",
     "tech_credit": "Iterator",
