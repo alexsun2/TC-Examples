@@ -25,21 +25,6 @@
     "tech-credit": "Adapter Pattern"
   },
   {
-    "path": "EnumExample/PlayerColorAdapter.java",
-    "type": "source",
-    "tech-credit": "Adapter Pattern"
-  },
-  {
-    "path": "EnumExample/PlayerColor.java",
-    "type": "source",
-    "tech-credit": "Adapter Pattern"
-  },
-  {
-    "path": "EnumExample/PlayerColor2.java",
-    "type": "source",
-    "tech-credit": "Adapter Pattern"
-  },
-  {
     "path": "PlugExample/EUPlug.java",
     "type": "source",
     "tech-credit": "Adapter Pattern"
