@@ -1,5 +1,17 @@
 [
-  { "path": "LoggingDecorator.java", "type": "source", "tech-credit": "Decorator Pattern" },
-  { "path": "BaseService.java", "type": "source", "tech-credit": "Decorator Pattern" },
-  { "path": "Service.java", "type": "source", "tech-credit": "Decorator Pattern" }
+  {
+    "path": "JavaExample1/LoggingDecorator.java",
+    "type": "source",
+    "tech-credit": "Decorator Pattern"
+  },
+  {
+    "path": "JavaExample1/BaseService.java",
+    "type": "source",
+    "tech-credit": "Decorator Pattern"
+  },
+  {
+    "path": "JavaExample1/Service.java",
+    "type": "source",
+    "tech-credit": "Decorator Pattern"
+  }
 ]

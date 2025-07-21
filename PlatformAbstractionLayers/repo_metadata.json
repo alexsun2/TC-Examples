@@ -1,21 +1,21 @@
 [
   {
-    "path": "BasicAbstractionPatternEx.py",
+    "path": "PythonExample1/BasicAbstractionPatternEx.py",
     "type": "source",
     "tech-credit": "Platform Abstraction Layers"
   },
   {
-    "path": "Operation.java",
+    "path": "JavaExample1/Operation.java",
     "type": "source",
     "tech-credit": "Platform Abstraction Layers"
   },
   {
-    "path": "RealOperation.java",
+    "path": "JavaExample1/RealOperation.java",
     "type": "source",
     "tech-credit": "Platform Abstraction Layers"
   },
   {
-    "path": "TaskRunner.java",
+    "path": "JavaExample1/TaskRunner.java",
     "type": "source",
     "tech-credit": "Platform Abstraction Layers"
   }

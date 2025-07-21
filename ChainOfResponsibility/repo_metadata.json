@@ -1,36 +1,36 @@
 [
   {
-    "path": "chain_of_res_ex.py",
+    "path": "PythonExample1/chain_of_res_ex.py",
     "type": "source",
     "tech-credit": "Chain of responsibility"
   },
   {
-    "path": "AbstractHandler.java",
+    "path": "JavaExample1/AbstractHandler.java",
     "type": "source",
     "tech-credit": "Chain of responsibility"
   },
   {
-    "path": "DogHandler.java",
+    "path": "JavaExample1/DogHandler.java",
     "type": "source",
     "tech-credit": "Chain of responsibility"
   },
   {
-    "path": "Handler.java",
+    "path": "JavaExample1/Handler.java",
     "type": "source",
     "tech-credit": "Chain of responsibility"
   },
   {
-    "path": "Main.java",
+    "path": "JavaExample1/Main.java",
     "type": "source",
     "tech-credit": "Chain of responsibility"
   },
   {
-    "path": "MonkeyHandler.java",
+    "path": "JavaExample1/MonkeyHandler.java",
     "type": "source",
     "tech-credit": "Chain of responsibility"
   },
   {
-    "path": "SquirrelHandler.java",
+    "path": "JavaExample1/SquirrelHandler.java",
     "type": "source",
     "tech-credit": "Chain of responsibility"
   }

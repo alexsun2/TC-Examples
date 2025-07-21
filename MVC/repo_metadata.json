@@ -1,41 +1,41 @@
 [
   {
-    "path": "controller.py",
+    "path": "PythonExample1/controller.py",
     "type": "source",
     "tech-credit": "Model View Controller"
   },
   {
-    "path": "main.py",
+    "path": "PythonExample1/main.py",
     "type": "source",
     "tech-credit": "Model View Controller"
   },
   {
-    "path": "model.py",
+    "path": "PythonExample1/model.py",
     "type": "source",
     "tech-credit": "Model View Controller"
   },
   {
-    "path": "view.py",
+    "path": "PythonExample1/view.py",
     "type": "source",
     "tech-credit": "Model View Controller"
   },
   {
-    "path": "Main.java",
+    "path": "JavaExample1/Main.java",
     "type": "source",
     "tech-credit": "Model View Controller"
   },
   {
-    "path": "TaskController.java",
+    "path": "JavaExample1/TaskController.java",
     "type": "source",
     "tech-credit": "Model View Controller"
   },
   {
-    "path": "TaskModel.java",
+    "path": "JavaExample1/TaskModel.java",
     "type": "source",
     "tech-credit": "Model View Controller"
   },
   {
-    "path": "TaskView.java",
+    "path": "JavaExample1/TaskView.java",
     "type": "source",
     "tech-credit": "Model View Controller"
   }

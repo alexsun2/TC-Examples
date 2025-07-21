@@ -1,11 +1,23 @@
 [
-  { "path": "iter_ex.py", "type": "source", "tech-credit": "Iterator" },
-  { "path": "Book.java", "type": "source", "tech-credit": "Iterator" },
   {
-    "path": "BookCollection.java",
+    "path": "PythonExample1/iter_ex.py",
     "type": "source",
     "tech-credit": "Iterator"
   },
-  { "path": "BookIterator.java", "type": "source", "tech-credit": "Iterator" },
+  {
+    "path": "JavaExample1/Book.java",
+    "type": "source",
+    "tech-credit": "Iterator"
+  },
+  {
+    "path": "JavaExample1/BookCollection.java",
+    "type": "source",
+    "tech-credit": "Iterator"
+  },
+  {
+    "path": "JavaExample1/BookIterator.java",
+    "type": "source",
+    "tech-credit": "Iterator"
+  },
   { "path": "Main.java", "type": "source", "tech-credit": "Iterator" }
 ]

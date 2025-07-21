@@ -1,7 +1,27 @@
 [
-  { "path": "proxyex.py", "type": "source", "tech-credit": "Proxy" },
-  { "path": "Main.java", "type": "source", "tech-credit": "Proxy" },
-  { "path": "Proxy.java", "type": "source", "tech-credit": "Proxy" },
-  { "path": "RealSubject.java", "type": "source", "tech-credit": "Proxy" },
-  { "path": "Subject.java", "type": "source", "tech-credit": "Proxy" }
+  {
+    "path": "PythonExample1/proxyex.py",
+    "type": "source",
+    "tech-credit": "Proxy"
+  },
+  {
+    "path": "JavaExample1/Main.java",
+    "type": "source",
+    "tech-credit": "Proxy"
+  },
+  {
+    "path": "JavaExample1/Proxy.java",
+    "type": "source",
+    "tech-credit": "Proxy"
+  },
+  {
+    "path": "JavaExample1/RealSubject.java",
+    "type": "source",
+    "tech-credit": "Proxy"
+  },
+  {
+    "path": "JavaExample1/Subject.java",
+    "type": "source",
+    "tech-credit": "Proxy"
+  }
 ]

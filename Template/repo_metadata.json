@@ -1,4 +1,12 @@
 [
-  {"path": "templateex.py", "type": "source", "tech-credit": "Template method"},
-  {"path": "TemplateMethodPatternExample.java", "type": "source", "tech-credit": "Template method"}
+  {
+    "path": "PythonExample1/templateex.py",
+    "type": "source",
+    "tech-credit": "Template method"
+  },
+  {
+    "path": "JavaExample1/TemplateMethodPatternExample.java",
+    "type": "source",
+    "tech-credit": "Template method"
+  }
 ]

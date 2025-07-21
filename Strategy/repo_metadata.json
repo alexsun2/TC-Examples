@@ -1,4 +1,12 @@
 [
-  {"path": "strategyex.py", "type": "source", "tech-credit": "Strategy Pattern"},
-  {"path": "StrategyPatternExample.java", "type": "source", "tech-credit": "Strategy Pattern"}
+  {
+    "path": "PythonExample1/strategyex.py",
+    "type": "source",
+    "tech-credit": "Strategy Pattern"
+  },
+  {
+    "path": "JavaExample1/StrategyPatternExample.java",
+    "type": "source",
+    "tech-credit": "Strategy Pattern"
+  }
 ]
