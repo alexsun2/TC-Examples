@@ -23,30 +23,5 @@
     "path": "MainJavaExample/Target.java",
     "type": "source",
     "tech-credit": "Adapter Pattern"
-  },
-  {
-    "path": "BoatExample/FishingBoatAdapter.java",
-    "type": "source",
-    "tech-credit": "Adapter Pattern"
-  },
-  {
-    "path": "BoatExample/Captain.java",
-    "type": "source",
-    "tech-credit": "Adapter Pattern"
-  },
-  {
-    "path": "BoatExample/FishingBoat.java",
-    "type": "source",
-    "tech-credit": "Adapter Pattern"
-  },
-  {
-    "path": "BoatExample/App.java",
-    "type": "source",
-    "tech-credit": "Adapter Pattern"
-  },
-  {
-    "path": "BoatExample/RowingBoat.java",
-    "type": "source",
-    "tech-credit": "Adapter Pattern"
   }
 ]
