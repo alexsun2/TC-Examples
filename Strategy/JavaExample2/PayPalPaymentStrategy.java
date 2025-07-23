@@ -3,6 +3,7 @@
 package Strategy.JavaExample2;
 
 // Concrete Strategy Classes: These are the different algorithms that implement the strategy interface.
+// The strategy pattern requires specific strategy classes that implement the strategy interface.
 public class PayPalPaymentStrategy implements PaymentStrategy {
     private String email;
     private String password;
