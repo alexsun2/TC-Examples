@@ -12,6 +12,36 @@
     "tech_credit_description": "Define a family of algorithms, encapsulate each one, and make them interchangeable. Strategy lets the algorithm vary independently from clients that use it."
   },
   {
+    "path": "Strategy/JavaExample2/Main.java",
+    "type": "source",
+    "tech_credit": "Strategy Pattern",
+    "tech_credit_description": "Define a family of algorithms, encapsulate each one, and make them interchangeable. Strategy lets the algorithm vary independently from clients that use it."
+  },
+  {
+    "path": "Strategy/JavaExample2/CreditCardPaymentStrategy.java",
+    "type": "source",
+    "tech_credit": "Strategy Pattern",
+    "tech_credit_description": "Define a family of algorithms, encapsulate each one, and make them interchangeable. Strategy lets the algorithm vary independently from clients that use it."
+  },
+  {
+    "path": "Strategy/JavaExample2/PaymentStrategy.java",
+    "type": "source",
+    "tech_credit": "Strategy Pattern",
+    "tech_credit_description": "Define a family of algorithms, encapsulate each one, and make them interchangeable. Strategy lets the algorithm vary independently from clients that use it."
+  },
+  {
+    "path": "Strategy/JavaExample2/PayPalPaymentStrategy.java",
+    "type": "source",
+    "tech_credit": "Strategy Pattern",
+    "tech_credit_description": "Define a family of algorithms, encapsulate each one, and make them interchangeable. Strategy lets the algorithm vary independently from clients that use it."
+  },
+  {
+    "path": "Strategy/JavaExample2/ShoppingCart.java",
+    "type": "source",
+    "tech_credit": "Strategy Pattern",
+    "tech_credit_description": "Define a family of algorithms, encapsulate each one, and make them interchangeable. Strategy lets the algorithm vary independently from clients that use it."
+  },
+  {
     "path": "Template/PythonExample1/templateex.py",
     "type": "source",
     "tech_credit": "Template method",

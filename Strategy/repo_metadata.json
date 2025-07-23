@@ -8,5 +8,30 @@
     "path": "JavaExample1/StrategyPatternExample.java",
     "type": "source",
     "tech-credit": "Strategy Pattern"
+  },
+  {
+    "path": "JavaExample2/Main.java",
+    "type": "source",
+    "tech-credit": "Strategy Pattern"
+  },
+  {
+    "path": "JavaExample2/CreditCardPaymentStrategy.java",
+    "type": "source",
+    "tech-credit": "Strategy Pattern"
+  },
+  {
+    "path": "JavaExample2/PaymentStrategy.java",
+    "type": "source",
+    "tech-credit": "Strategy Pattern"
+  },
+  {
+    "path": "JavaExample2/PayPalPaymentStrategy.java",
+    "type": "source",
+    "tech-credit": "Strategy Pattern"
+  },
+  {
+    "path": "JavaExample2/ShoppingCart.java",
+    "type": "source",
+    "tech-credit": "Strategy Pattern"
   }
 ]
