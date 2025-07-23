@@ -6,7 +6,7 @@
   },
   {
     "pattern_name": "Strategy Pattern",
-    "pattern_description": "Define a family of algorithms, encapsulate each one, and make them interchangeable. Strategy lets the algorithm vary independently from clients that use it.",
+    "pattern_description": "Define a family of algorithms under one strategy interface, making them interchangeable. Strategy lets the algorithm vary independently from clients that use it.",
     "technical_credit": true
   },
   {

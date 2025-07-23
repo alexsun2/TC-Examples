@@ -3,43 +3,67 @@
     "path": "Strategy/PythonExample1/strategyex.py",
     "type": "source",
     "tech_credit": "Strategy Pattern",
-    "tech_credit_description": "Define a family of algorithms, encapsulate each one, and make them interchangeable. Strategy lets the algorithm vary independently from clients that use it."
+    "tech_credit_description": "Define a family of algorithms under one strategy interface, making them interchangeable. Strategy lets the algorithm vary independently from clients that use it."
   },
   {
     "path": "Strategy/JavaExample1/StrategyPatternExample.java",
     "type": "source",
     "tech_credit": "Strategy Pattern",
-    "tech_credit_description": "Define a family of algorithms, encapsulate each one, and make them interchangeable. Strategy lets the algorithm vary independently from clients that use it."
+    "tech_credit_description": "Define a family of algorithms under one strategy interface, making them interchangeable. Strategy lets the algorithm vary independently from clients that use it."
+  },
+  {
+    "path": "Strategy/JavaExample1/ConcreteStrategyA.java",
+    "type": "source",
+    "tech_credit": "Strategy Pattern",
+    "tech_credit_description": "Define a family of algorithms under one strategy interface, making them interchangeable. Strategy lets the algorithm vary independently from clients that use it."
+  },
+  {
+    "path": "Strategy/JavaExample1/ConcreteStrategyB.java",
+    "type": "source",
+    "tech_credit": "Strategy Pattern",
+    "tech_credit_description": "Define a family of algorithms under one strategy interface, making them interchangeable. Strategy lets the algorithm vary independently from clients that use it."
+  },
+  {
+    "path": "Strategy/JavaExample1/Context.java",
+    "type": "source",
+    "tech_credit": "Strategy Pattern",
+    "tech_credit_description": "Define a family of algorithms under one strategy interface, making them interchangeable. Strategy lets the algorithm vary independently from clients that use it."
+  },
+  {
+    "path": "Strategy/JavaExample1/Strategy.java",
+    "type": "source",
+    "tech_credit": "Strategy Pattern",
+    "tech_credit_description": "Define a family of algorithms under one strategy interface, making them interchangeable. Strategy lets the algorithm vary independently from clients that use it."
   },
   {
     "path": "Strategy/JavaExample2/Main.java",
     "type": "source",
     "tech_credit": "Strategy Pattern",
-    "tech_credit_description": "Define a family of algorithms, encapsulate each one, and make them interchangeable. Strategy lets the algorithm vary independently from clients that use it."
+    "tech_credit_description": "Define a family of algorithms under one strategy interface, making them interchangeable. Strategy lets the algorithm vary independently from clients that use it."
   },
   {
     "path": "Strategy/JavaExample2/CreditCardPaymentStrategy.java",
     "type": "source",
     "tech_credit": "Strategy Pattern",
-    "tech_credit_description": "Define a family of algorithms, encapsulate each one, and make them interchangeable. Strategy lets the algorithm vary independently from clients that use it."
+    "tech_credit_description": "Define a family of algorithms under one strategy interface, making them interchangeable. Strategy lets the algorithm vary independently from clients that use it."
   },
   {
     "path": "Strategy/JavaExample2/PaymentStrategy.java",
     "type": "source",
     "tech_credit": "Strategy Pattern",
-    "tech_credit_description": "Define a family of algorithms, encapsulate each one, and make them interchangeable. Strategy lets the algorithm vary independently from clients that use it."
+    "tech_credit_description": "Define a family of algorithms under one strategy interface, making them interchangeable. Strategy lets the algorithm vary independently from clients that use it."
   },
   {
     "path": "Strategy/JavaExample2/PayPalPaymentStrategy.java",
     "type": "source",
     "tech_credit": "Strategy Pattern",
-    "tech_credit_description": "Define a family of algorithms, encapsulate each one, and make them interchangeable. Strategy lets the algorithm vary independently from clients that use it."
+    "tech_credit_description": "Define a family of algorithms under one strategy interface, making them interchangeable. Strategy lets the algorithm vary independently from clients that use it."
   },
   {
     "path": "Strategy/JavaExample2/ShoppingCart.java",
     "type": "source",
     "tech_credit": "Strategy Pattern",
-    "tech_credit_description": "Define a family of algorithms, encapsulate each one, and make them interchangeable. Strategy lets the algorithm vary independently from clients that use it."
+    "tech_credit_description": "Define a family of algorithms under one strategy interface, making them interchangeable. Strategy lets the algorithm vary independently from clients that use it."
   },
   {
     "path": "Template/PythonExample1/templateex.py",

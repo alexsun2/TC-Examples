@@ -10,6 +10,26 @@
     "tech-credit": "Strategy Pattern"
   },
   {
+    "path": "JavaExample1/ConcreteStrategyA.java",
+    "type": "source",
+    "tech-credit": "Strategy Pattern"
+  },
+  {
+    "path": "JavaExample1/ConcreteStrategyB.java",
+    "type": "source",
+    "tech-credit": "Strategy Pattern"
+  },
+  {
+    "path": "JavaExample1/Context.java",
+    "type": "source",
+    "tech-credit": "Strategy Pattern"
+  },
+  {
+    "path": "JavaExample1/Strategy.java",
+    "type": "source",
+    "tech-credit": "Strategy Pattern"
+  },
+  {
     "path": "JavaExample2/Main.java",
     "type": "source",
     "tech-credit": "Strategy Pattern"
