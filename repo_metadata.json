@@ -264,6 +264,36 @@
     "tech_credit_description": "Avoid coupling the sender of a request to its receiver by giving more than one object a chance to handle the request. Chain the receiving objects and pass the request along the chain until an object handles it."
   },
   {
+    "path": "Command/JavaExample1/Command.java",
+    "type": "source",
+    "tech_credit": "Command Pattern",
+    "tech_credit_description": ""
+  },
+  {
+    "path": "Command/JavaExample1/Light.java",
+    "type": "source",
+    "tech_credit": "Command Pattern",
+    "tech_credit_description": ""
+  },
+  {
+    "path": "Command/JavaExample1/LightOffCommand.java",
+    "type": "source",
+    "tech_credit": "Command Pattern",
+    "tech_credit_description": ""
+  },
+  {
+    "path": "Command/JavaExample1/LightOnCommand.java",
+    "type": "source",
+    "tech_credit": "Command Pattern",
+    "tech_credit_description": ""
+  },
+  {
+    "path": "Command/JavaExample1/RemoteControl.java",
+    "type": "source",
+    "tech_credit": "Command Pattern",
+    "tech_credit_description": ""
+  },
+  {
     "path": "PlatformAbstractionLayers/PythonExample1/BasicAbstractionPatternEx.py",
     "type": "source",
     "tech_credit": "Platform Abstraction Layers",
