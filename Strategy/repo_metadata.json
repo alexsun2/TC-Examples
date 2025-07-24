@@ -53,5 +53,20 @@
     "path": "JavaExample2/ShoppingCart.java",
     "type": "source",
     "tech-credit": "Strategy Pattern"
+  },
+  {
+    "path": "JavaCounterExample1/CommonListADT.java",
+    "type": "source",
+    "tech-credit": "Strategy Pattern"
+  },
+  {
+    "path": "JavaCounterExample1/SimpleList.java",
+    "type": "source",
+    "tech-credit": "Strategy Pattern"
+  },
+  {
+    "path": "JavaCounterExample1/Main.java",
+    "type": "source",
+    "tech-credit": "Strategy Pattern"
   }
 ]

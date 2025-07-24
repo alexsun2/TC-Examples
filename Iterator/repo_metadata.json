@@ -19,5 +19,9 @@
     "type": "source",
     "tech-credit": "Iterator"
   },
-  { "path": "Main.java", "type": "source", "tech-credit": "Iterator" }
+  {
+    "path": "JavaExample1/Main.java",
+    "type": "source",
+    "tech-credit": "Iterator"
+  }
 ]

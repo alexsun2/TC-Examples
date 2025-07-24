@@ -66,6 +66,24 @@
     "tech_credit_description": "Define a family of algorithms under one strategy interface, making them interchangeable. Strategy lets the algorithm vary independently from clients that use it."
   },
   {
+    "path": "Strategy/JavaCounterExample1/CommonListADT.java",
+    "type": "source",
+    "tech_credit": "Strategy Pattern",
+    "tech_credit_description": "Define a family of algorithms under one strategy interface, making them interchangeable. Strategy lets the algorithm vary independently from clients that use it."
+  },
+  {
+    "path": "Strategy/JavaCounterExample1/SimpleList.java",
+    "type": "source",
+    "tech_credit": "Strategy Pattern",
+    "tech_credit_description": "Define a family of algorithms under one strategy interface, making them interchangeable. Strategy lets the algorithm vary independently from clients that use it."
+  },
+  {
+    "path": "Strategy/JavaCounterExample1/Main.java",
+    "type": "source",
+    "tech_credit": "Strategy Pattern",
+    "tech_credit_description": "Define a family of algorithms under one strategy interface, making them interchangeable. Strategy lets the algorithm vary independently from clients that use it."
+  },
+  {
     "path": "Template/PythonExample1/templateex.py",
     "type": "source",
     "tech_credit": "Template method",
@@ -252,7 +270,7 @@
     "tech_credit_description": "Provide a way to access the elements of an aggregate object sequentially without exposing its underlying representation. An iterator needs to implement the Iterator interface, which defines methods for traversing the iterable."
   },
   {
-    "path": "Iterator/Main.java",
+    "path": "Iterator/JavaExample1/Main.java",
     "type": "source",
     "tech_credit": "Iterator",
     "tech_credit_description": "Provide a way to access the elements of an aggregate object sequentially without exposing its underlying representation. An iterator needs to implement the Iterator interface, which defines methods for traversing the iterable."
