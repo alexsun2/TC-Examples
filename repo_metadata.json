@@ -138,6 +138,36 @@
     "tech_credit_description": "Attach additional responsibilities to an object dynamically. Decorators provide a flexible alternative to subclassing for extending functionality."
   },
   {
+    "path": "Command/JavaExample1/Command.java",
+    "type": "source",
+    "tech_credit": "Command Pattern",
+    "tech_credit_description": ""
+  },
+  {
+    "path": "Command/JavaExample1/Light.java",
+    "type": "source",
+    "tech_credit": "Command Pattern",
+    "tech_credit_description": ""
+  },
+  {
+    "path": "Command/JavaExample1/LightOffCommand.java",
+    "type": "source",
+    "tech_credit": "Command Pattern",
+    "tech_credit_description": ""
+  },
+  {
+    "path": "Command/JavaExample1/LightOnCommand.java",
+    "type": "source",
+    "tech_credit": "Command Pattern",
+    "tech_credit_description": ""
+  },
+  {
+    "path": "Command/JavaExample1/RemoteControl.java",
+    "type": "source",
+    "tech_credit": "Command Pattern",
+    "tech_credit_description": ""
+  },
+  {
     "path": "MVC/PythonExample1/controller.py",
     "type": "source",
     "tech_credit": "Model View Controller",
@@ -394,5 +424,41 @@
     "type": "source",
     "tech_credit": "Visitor Pattern",
     "tech_credit_description": "Represent an operation to be performed on instances of a set of classes. Visitor lets a new operation be defined without changing the classes of the elements on which it operates."
+  },
+  {
+    "path": "Observer/JavaExample1/Main.java",
+    "type": "source",
+    "tech_credit": "Observer",
+    "tech_credit_description": ""
+  },
+  {
+    "path": "Observer/JavaExample1/Editor.java",
+    "type": "source",
+    "tech_credit": "Observer",
+    "tech_credit_description": ""
+  },
+  {
+    "path": "Observer/JavaExample1/EmailNotificationListener.java",
+    "type": "source",
+    "tech_credit": "Observer",
+    "tech_credit_description": ""
+  },
+  {
+    "path": "Observer/JavaExample1/EventListener.java",
+    "type": "source",
+    "tech_credit": "Observer",
+    "tech_credit_description": ""
+  },
+  {
+    "path": "Observer/JavaExample1/EventManager.java",
+    "type": "source",
+    "tech_credit": "Observer",
+    "tech_credit_description": ""
+  },
+  {
+    "path": "Observer/JavaExample1/LogOpenListener.java",
+    "type": "source",
+    "tech_credit": "Observer",
+    "tech_credit_description": ""
   }
 ]
