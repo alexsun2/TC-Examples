@@ -1,0 +1,38 @@
+[
+  {
+    "path": "JavaExample1/Main.java",
+    "type": "source",
+    "is_counterexample": "false",
+    "tech-credit": "Observer"
+  },
+  {
+    "path": "JavaExample1/Editor.java",
+    "type": "source",
+    "is_counterexample": "false",
+    "tech-credit": "Observer"
+  },
+  {
+    "path": "JavaExample1/EmailNotificationListener.java",
+    "type": "source",
+    "is_counterexample": "false",
+    "tech-credit": "Observer"
+  },
+  {
+    "path": "JavaExample1/EventListener.java",
+    "type": "source",
+    "is_counterexample": "false",
+    "tech-credit": "Observer"
+  },
+  {
+    "path": "JavaExample1/EventManager.java",
+    "type": "source",
+    "is_counterexample": "false",
+    "tech-credit": "Observer"
+  },
+  {
+    "path": "JavaExample1/LogOpenListener.java",
+    "type": "source",
+    "is_counterexample": "false",
+    "tech-credit": "Observer"
+  }
+]
