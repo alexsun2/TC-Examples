@@ -2,26 +2,26 @@
   {
     "path": "JavaExample1/Command.java",
     "type": "source",
-    "tech-credit": "Command Pattern"
+    "tech-credit": "Command"
   },
   {
     "path": "JavaExample1/Light.java",
     "type": "source",
-    "tech-credit": "Command Pattern"
+    "tech-credit": "Command"
   },
   {
     "path": "JavaExample1/LightOffCommand.java",
     "type": "source",
-    "tech-credit": "Command Pattern"
+    "tech-credit": "Command"
   },
   {
     "path": "JavaExample1/LightOnCommand.java",
     "type": "source",
-    "tech-credit": "Command Pattern"
+    "tech-credit": "Command"
   },
   {
     "path": "JavaExample1/RemoteControl.java",
     "type": "source",
-    "tech-credit": "Command Pattern"
+    "tech-credit": "Command"
   }
 ]
