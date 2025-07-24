@@ -114,6 +114,12 @@
     "tech_credit_description": "Enhance system resilience by dynamically detecting service failures and preventing cascading issues, especially in distributed systems."
   },
   {
+    "path": "Builder/ComputerExample/Computer.java",
+    "type": "source",
+    "tech_credit": "Builder Pattern",
+    "tech_credit_description": "Separate the construction of a complex object from its representation, allowing the same construction process to create different representations. Builder is particularly useful for constructing objects with many optional parameters or configurations."
+  },
+  {
     "path": "Decorator/JavaExample1/LoggingDecorator.java",
     "type": "source",
     "tech_credit": "Decorator Pattern",

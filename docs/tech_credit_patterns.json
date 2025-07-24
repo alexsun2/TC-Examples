@@ -15,6 +15,11 @@
     "technical_credit": true
   },
   {
+    "pattern_name": "Builder Pattern",
+    "pattern_description": "Separate the construction of a complex object from its representation, allowing the same construction process to create different representations. Builder is particularly useful for constructing objects with many optional parameters or configurations.",
+    "technical_credit": true
+  },
+  {
     "pattern_name": "Model View Controller",
     "pattern_description": "Separate application concerns into three interconnected components: Model for business logic and data, View for user interface, and Controller for input handling. MVC promotes modularity, enabling independent development, testing, and reuse of each component.",
     "technical_credit": true
