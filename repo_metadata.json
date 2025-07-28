@@ -135,37 +135,37 @@
     "path": "Observer/JavaExample1/Main.java",
     "type": "source",
     "tech_credit": "Observer",
-    "tech_credit_description": ""
+    "tech_credit_description": "Define a one-to-many dependency between objects where a state change in one object results in all its dependents being notified and updated automatically."
   },
   {
     "path": "Observer/JavaExample1/Editor.java",
     "type": "source",
     "tech_credit": "Observer",
-    "tech_credit_description": ""
+    "tech_credit_description": "Define a one-to-many dependency between objects where a state change in one object results in all its dependents being notified and updated automatically."
   },
   {
     "path": "Observer/JavaExample1/EmailNotificationListener.java",
     "type": "source",
     "tech_credit": "Observer",
-    "tech_credit_description": ""
+    "tech_credit_description": "Define a one-to-many dependency between objects where a state change in one object results in all its dependents being notified and updated automatically."
   },
   {
     "path": "Observer/JavaExample1/EventListener.java",
     "type": "source",
     "tech_credit": "Observer",
-    "tech_credit_description": ""
+    "tech_credit_description": "Define a one-to-many dependency between objects where a state change in one object results in all its dependents being notified and updated automatically."
   },
   {
     "path": "Observer/JavaExample1/EventManager.java",
     "type": "source",
     "tech_credit": "Observer",
-    "tech_credit_description": ""
+    "tech_credit_description": "Define a one-to-many dependency between objects where a state change in one object results in all its dependents being notified and updated automatically."
   },
   {
     "path": "Observer/JavaExample1/LogOpenListener.java",
     "type": "source",
     "tech_credit": "Observer",
-    "tech_credit_description": ""
+    "tech_credit_description": "Define a one-to-many dependency between objects where a state change in one object results in all its dependents being notified and updated automatically."
   },
   {
     "path": "Adapter/MainPythonExample/adapterex.py",

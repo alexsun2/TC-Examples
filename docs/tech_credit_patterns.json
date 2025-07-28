@@ -85,7 +85,7 @@
     "technical_credit": true
   },
   {
-    "pattern_name": "Observer or Publish/subscribe",
+    "pattern_name": "Observer",
     "pattern_description": "Define a one-to-many dependency between objects where a state change in one object results in all its dependents being notified and updated automatically.",
     "technical_credit": true
   },
